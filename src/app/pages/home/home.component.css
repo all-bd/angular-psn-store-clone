@@ -4,6 +4,8 @@
 	padding-top: 50px;
 	display: flex;
 
+	font-size: 18px;
+
 	justify-content: space-around;
 	align-items: baseline;
 	flex-wrap: wrap;

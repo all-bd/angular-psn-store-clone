@@ -10,9 +10,10 @@
 	justify-content: center;
 	background-color: #0d0d0d;
 	color: white;
-	font-size: 12px;
+	font-size: 15px;
 	font-family: 'Segoe UI';
 	font-weight: bold;
+	opacity: 0.8;
 	height: 40px;
-	padding: 0px 50px;
+	padding: 0px 22px;
 }

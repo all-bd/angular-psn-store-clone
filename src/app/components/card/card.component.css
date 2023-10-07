@@ -2,7 +2,7 @@
 	position: relative;
 	border:3px solid #3E4357;
 	border-radius: 10px;
-	width: 350px;
+	width: 370px;
 	height: 500px;
 
 	display: flex;
@@ -11,11 +11,11 @@
 }
 
 .card__img{
-	min-width: 100%;
-	min-height: 100%;
+	min-width: 95%;
+	min-height: 100px;
 	transition: transform .8s;
 }
 
 .card__img:hover{
-	transform: scale(1.1);
+	transform: scale(1.2);
 }
